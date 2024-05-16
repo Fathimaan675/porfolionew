@@ -1,0 +1,22 @@
+*{
+  overflow-x: hidden;
+
+}
+.header a{
+  color:rgb(211, 220, 217);
+  font-size: 20px;
+  text-decoration: none;
+  padding: 15px;
+
+}
+.headerimg img{
+  width: 100px;
+  height: 70px;
+  margin-left: 100px;
+}
+.header a:hover{
+  color: rgb(219, 95, 95);
+}
+.headerimg b{
+  color:rgb(211, 220, 217); ;
+}
